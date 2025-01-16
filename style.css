@@ -6,9 +6,11 @@
     padding: 0;
 }
 body {
-  margin: 0;
-}
+    margin: 0;
+  }
 #background {
     width: 475px;
     height: 676px;
+    margin-left: -40px;
+    margin-top: -10px;
 }
